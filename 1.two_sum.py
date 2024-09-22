@@ -1,3 +1,5 @@
+#1.two_sum
+
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         prev_diff={}
